@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "Wesley Wigham",
+    "email": "https://github.com/weswigham"
+  },
+  "dependencies": {},
+  "description": "TypeScript definitions for nodegit",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "",
+  "name": "@types/nodegit",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/weswigham/AtTypes-nodegit.git"
+  },
+  "typeScriptVersion": "2.1",
+  "version": "1.0.0"
+}
